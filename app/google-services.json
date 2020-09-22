@@ -1,0 +1,110 @@
+{
+  "project_info": {
+    "project_number": "551532066911",
+    "firebase_url": "https://notespick-f9b2d.firebaseio.com",
+    "project_id": "notespick-f9b2d",
+    "storage_bucket": "notespick-f9b2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551532066911:android:b03a941e4f8f52e95f03ea",
+        "android_client_info": {
+          "package_name": "com.example.datanotespickup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551532066911-e8kdbaqd3ctfurp8lq0l8v6je3am9pqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqtV-knjPLvp4nb_Eqlq-UOjIikSizJX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551532066911-e8kdbaqd3ctfurp8lq0l8v6je3am9pqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551532066911:android:56b81a38b09a131b5f03ea",
+        "android_client_info": {
+          "package_name": "com.notespickup.notespick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551532066911-66f3pee15v6jpiaim3dl0vs6i48lqpul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notespickup.notespick",
+            "certificate_hash": "f14cb3e7ccb8dd799c406624dd23b296d083d839"
+          }
+        },
+        {
+          "client_id": "551532066911-lh1g2jvj8n0b96qqr4pi3hm05oth118t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notespickup.notespick",
+            "certificate_hash": "b82119438a4ceea428936dd072071dd1eb8e74b6"
+          }
+        },
+        {
+          "client_id": "551532066911-hg9kpr4akja43142ckdb0gpmdndrt9ji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notespickup.notespick",
+            "certificate_hash": "e2735fbe01fccc751577159721a563d42ae1b4c0"
+          }
+        },
+        {
+          "client_id": "551532066911-jfp1nbqgc4vrcnfifjm4hioss223eji1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notespickup.notespick",
+            "certificate_hash": "ac78bcc20f19c9152936e0a95ab3462e263e4ed3"
+          }
+        },
+        {
+          "client_id": "551532066911-orn019gvv0esc5cjc30tkoqt9i173uah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notespickup.notespick",
+            "certificate_hash": "8d16e4a50dccb86c39c04fdcc3b4eea69d1d176f"
+          }
+        },
+        {
+          "client_id": "551532066911-e8kdbaqd3ctfurp8lq0l8v6je3am9pqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqtV-knjPLvp4nb_Eqlq-UOjIikSizJX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551532066911-e8kdbaqd3ctfurp8lq0l8v6je3am9pqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5790831536545726~8048725925"
+    }
+  ],
+  "configuration_version": "1"
+}
